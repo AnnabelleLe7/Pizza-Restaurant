@@ -9,7 +9,7 @@ Profile Management: Users and managers can view and update profile details. This
 Menu Interaction: Users can view the menu, filter items by type or price, and sort items by price.
 Order Management: Users can place orders, view their past orders, and update the status of existing orders. Managers have additional administrative abilities such as viewing all orders or updating order statuses.
 Administrative Functions: Managers can update the menu and manage user roles within the system.
-
+ 
 Technologies Used:
 
 Java: The main programming language used for developing the application logic.
